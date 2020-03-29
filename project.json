@@ -1,0 +1,34 @@
+{
+  "title": "PUZZ000",
+  "date": "30-05-2019",
+  "description": {
+    "pt": ""
+  },
+  "license": {
+    "pt": "Licensed under a Creative Commons license <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "pt"
+  ],
+  "mainFile": "puzz000.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 3,
+  "mediaFiles": 8,
+  "totalSize": 685003,
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "puzz000.jclic",
+    "puzz000.jclic.js"
+  ]
+}
